@@ -3067,6 +3067,7 @@ select.mobile-device {
 }
 .services-sec-container {
   display: flex;
+  justify-content: space-around;
   flex-wrap: wrap;
   position: relative;
   margin-right: auto;
