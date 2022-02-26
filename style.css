@@ -3201,3 +3201,11 @@ select.mobile-device {
 #col25 {
     flex: 0 0 25%;
 }
+
+
+
+@media screen and (max-width: 600px) {
+    iframe {
+        width: 100%;
+    }
+}
